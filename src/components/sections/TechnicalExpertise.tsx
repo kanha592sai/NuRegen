@@ -7,8 +7,8 @@ const TechnicalExpertise = () => (
   <section className="py-20 md:py-28 bg-primary">
     <div className="container mx-auto px-4 md:px-6">
       <SectionHeader
-        title="Technical Expertise"
-        subtitle="Deep domain knowledge in carbon accounting, climate science, and global compliance standards."
+        title="End-to-End Climate Project Execution with Measurable Carbon Outcomes"
+        subtitle="Delivering measurable, high-integrity climate outcomes at scale"
         light
       />
 

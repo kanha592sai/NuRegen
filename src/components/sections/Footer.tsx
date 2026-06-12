@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-10 mb-12">
         {/* Brand */}
         <div className="sm:col-span-2 lg:col-span-1">
-          <h3 className="font-heading text-xl font-bold mb-3">NuRegen</h3>
+          <img src="/images/logo.png" alt="NuRegen" className="h-8 md:h-10 w-auto object-contain mb-4" />
           <p className="text-primary-foreground/60 text-sm leading-relaxed">
             Climate-tech enterprise driving regenerative innovation for a sustainable future.
           </p>

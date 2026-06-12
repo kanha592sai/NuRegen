@@ -13,8 +13,8 @@ const WhySustainability = () => (
   <section className="py-20 md:py-28 bg-surface">
     <div className="container mx-auto px-4 md:px-6">
       <SectionHeader
-        title="Why Sustainability Matters"
-        subtitle="Building a resilient future through responsible climate action and community empowerment."
+        title="Why NuRegen Matters"
+        subtitle="Accelerating Climate Action Through Nature-Based Solutions and Carbon Innovation"
       />
 
       <div className="grid md:grid-cols-3 gap-6 md:gap-8">

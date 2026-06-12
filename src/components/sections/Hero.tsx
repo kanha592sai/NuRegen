@@ -29,7 +29,7 @@ const Hero = () => (
           transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
         >
           <span className="inline-block bg-accent/20 text-accent px-4 py-1.5 rounded-full text-sm font-semibold mb-6">
-            Climate-Tech & Sustainability Enterprise
+            Science-Based • Execution-Driven • Locally Innovated
           </span>
         </motion.div>
 
@@ -39,18 +39,17 @@ const Hero = () => (
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
         >
-          Driving Climate Impact Through{" "}
-          <span className="text-accent">Regenerative Innovation</span>
+          Bridging Global Carbon Markets with{" "}
+          <span className="text-accent">Local Climate Solutions</span>
         </motion.h1>
 
         <motion.p
-          className="text-lg md:text-xl text-primary-foreground max-w-2xl mb-8"
+          className="text-lg md:text-xl text-primary-foreground max-w-3xl mb-8"
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
         >
-          Pioneering carbon markets, regenerative agriculture, and nature-based solutions
-          for a sustainable, climate-resilient future.
+          Creating science-based, high-integrity climate outcomes through community engagement, on-ground execution, robust MRV, and measurable carbon impact.
         </motion.p>
 
         <motion.div
@@ -69,7 +68,7 @@ const Hero = () => (
             href="#about"
             className="border border-primary-foreground/30 text-primary-foreground px-8 py-3.5 rounded-full text-sm font-semibold hover:bg-primary-foreground/10 transition-colors"
           >
-            Learn More
+            Discover More
           </a>
         </motion.div>
       </div>

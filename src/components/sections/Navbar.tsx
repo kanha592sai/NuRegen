@@ -27,8 +27,8 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex items-center justify-between h-16 md:h-20">
-          <a href="#home" className={`font-heading text-2xl font-bold ${scrolled ? "text-primary" : "text-primary-foreground"}`}>
-            NuRegen
+          <a href="#home" className="flex items-center gap-2">
+            <img src="/images/logo.png" alt="NuRegen" className="h-8 md:h-10 w-auto object-contain" />
           </a>
 
           {/* Desktop */}

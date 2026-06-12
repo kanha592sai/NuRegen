@@ -14,33 +14,38 @@ export const heroStats = [
 export const sustainabilityCards = [
   {
     icon: "Leaf",
-    title: "Reducing Carbon Emissions",
-    description: "Implementing nature-based and tech-driven solutions to significantly lower greenhouse gas emissions across agricultural value chains.",
+    title: "Nature-Based Climate & Carbon Solutions",
+    description: "Delivering science-based climate interventions across agricultural value chains through carbon farming, rice methane avoidance through regenerative and climate-smart paddy systems, agroforestry, resilient agriculture, ecosystem conservation, and sustainable land stewardship to generate scalable climate, carbon, and community impact.",
   },
   {
     icon: "TreePine",
-    title: "Protecting Natural Ecosystems",
-    description: "Preserving biodiversity and restoring degraded landscapes through agroforestry, wetland conservation, and regenerative land management.",
+    title: "Ecosystem Restoration",
+    description: "Advancing biodiversity conservation, water stewardship, ecosystem regeneration, and landscape resilience to restore natural systems and create long-term environmental value.",
   },
   {
     icon: "Users",
-    title: "Empowering Communities",
-    description: "Building capacity among rural communities with sustainable livelihood models, climate-smart practices, and equitable carbon revenue sharing.",
+    title: "Community Impact",
+    description: "Empowering rural communities through farmer engagement, capacity building, sustainable livelihoods, and inclusive participation in carbon and climate opportunities to enable lasting social and environmental transformation.",
   },
 ];
 
 export const companyOverview = {
   title: "About NuRegen",
-  subtitle: "Climate-Focused Enterprise for Sustainable Development",
+  subtitle: "Regenerating Nature. Delivering Climate Impact.",
   description: [
-    "NuRegen Private Limited is a climate-tech enterprise headquartered in Bhubaneswar, Odisha, committed to building scalable, impactful solutions at the intersection of climate action and rural development.",
-    "We specialize in carbon markets, regenerative agriculture, nature-based solutions, and ESG strategies — enabling organizations, communities, and governments to transition toward a low-carbon, climate-resilient future.",
+    "Building Climate Solutions for a Regenerative Future",
+    "NuRegen Private Limited is a climate-tech enterprise focused on carbon markets, regenerative agriculture, and nature-based solutions.",
+    "NuRegen delivers end-to-end carbon project services covering baseline development, additionality assessment, project design, farmer aggregation, large-scale field implementation, and technology-enabled MRV.",
+    "The company specializes in direct measurement and quantification of GHG emissions, emissions reduction modelling, climate-smart agriculture, protocol development, ecosystem restoration, and stakeholder engagement to deliver science-based, high-integrity outcomes in nature-based carbon projects.",
+    "Science-based. Execution-driven. Locally innovated. NuRegen develops and implements high-integrity carbon projects that deliver measurable climate outcomes and long-term environmental value at scale."
   ],
   highlights: [
-    "Carbon Markets & Trading",
-    "Regenerative Agriculture",
+    "End-to-End Carbon Project Services",
+    "Regenerative & Climate-Smart Agriculture",
     "Nature-Based Solutions",
-    "ESG Strategy & Advisory",
+    "GHG Measurement & Emission Quantification",
+    "MRV & Climate Reporting",
+    "Research, Training & Climate Advisory"
   ],
 };
 
@@ -84,11 +89,12 @@ export const implementationStats = [
 ];
 
 export const technicalExpertise = [
-  "GHG Accounting & Quantification",
-  "Emission Modelling & Forecasting",
-  "Carbon Registry Coordination",
-  "Methane Reduction Strategies",
-  "Global Standards Compliance (VCS, Gold Standard)",
+  "Deep Farmer Engagement & Practice Transformation",
+  "Direct GHG Measurement & Scientific Validation",
+  "Carbon Accounting & Robust Quantification",
+  "Global Carbon Standards & Registry Compliance",
+  "Large-Scale Climate Project Implementation",
+  "Advanced MRV for Traceable & Verifiable Outcomes",
 ];
 
 export const services = [
@@ -132,23 +138,33 @@ export const services = [
 export const processSteps = [
   {
     step: 1,
-    title: "Assessment & Baseline",
-    description: "Comprehensive evaluation of current practices, emissions, and potential for carbon sequestration.",
+    title: "Assessment & Baseline Development",
+    description: "Comprehensive evaluation of existing practices, emissions sources, carbon sequestration/avoidance/reduction potential, and landscape readiness through scientific baseline development and additionality assessment.",
   },
   {
     step: 2,
-    title: "Project Design",
-    description: "Developing detailed project plans aligned with global standards and local context.",
+    title: "Project Design & Carbon Architecture",
+    description: "Development of Project Design Documents (PDDs) aligned with global carbon standards, including methodology selection, protocol development, quantification frameworks, and project structuring for long-term climate value.",
   },
   {
     step: 3,
-    title: "Implementation",
-    description: "On-ground deployment of climate-smart practices with farmer training and support.",
+    title: "Implementation & Stakeholder Enablement",
+    description: "Farmer aggregation and large-scale deployment of low-emission and regenerative practices focused on emission avoidance, carbon reduction, and ecosystem resilience, enabled through capacity building, regular hand holding and value-chain engagement. Building trust with farmers to scale regenerative and low-emission practices for measurable and lasting climate impact.",
   },
   {
     step: 4,
-    title: "Monitoring & Verification",
-    description: "Rigorous MRV systems ensuring transparency, accuracy, and credit integrity.",
+    title: "Monitoring, Quantification & Verification Readiness",
+    description: "Delivering robust scientific quantification through project stratification–based on-field direct GHG measurement, rigorous MRV systems, emissions modelling, and transparent reporting to achieve audit-ready, verification-ready, and high-integrity carbon outcomes.",
+  },
+  {
+    step: 5,
+    title: "Impact Assessment & Climate Intelligence",
+    description: "End-to-end project documentation, climate impact assessment, carbon performance analytics, and continuous improvement to maximize measurable environmental and socioeconomic outcomes.",
+  },
+  {
+    step: 6,
+    title: "Climate-Smart Products & Traceability",
+    description: "Transforming agricultural outputs into traceable climate-smart products that unlock premium value for farmers.",
   },
 ];
 

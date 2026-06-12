@@ -10,12 +10,12 @@ const JoinMovement = () => (
         transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
       >
         <h2 className="font-heading text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
-          Join the Climate Movement
+          Creating Real, Measurable Climate Outcomes
         </h2>
         <div className="flex flex-wrap justify-center gap-x-8 gap-y-3 mb-8 text-white/80 text-sm md:text-base">
-          <span>✓ Sustainable Solutions</span>
-          <span>✓ Lower Emissions</span>
-          <span>✓ Real Climate Impact</span>
+          <span>✓ Scientific Rigor</span>
+          <span>✓ High-Integrity Outcomes</span>
+          <span>✓ Delivering Climate Impact at Scale</span>
         </div>
         <a
           href="mailto:info@nuregen.in"
